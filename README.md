@@ -4,8 +4,8 @@ Privacy policy and account deletion pages for the Echo mobile app.
 
 Published with GitHub Pages:
 
-- Privacy policy — https://lcsoftwareapp-rgb.github.io/echo-legal/privacy.html
-- Account deletion — https://lcsoftwareapp-rgb.github.io/echo-legal/delete-account.html
+- Privacy policy — https://lcsoftwareapp-rgb.github.io/Echo/privacy.html
+- Account deletion — https://lcsoftwareapp-rgb.github.io/Echo/delete-account.html
 
 ## Setup
 
